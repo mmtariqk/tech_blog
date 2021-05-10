@@ -1,6 +1,7 @@
 # MVC Tech Blog using MVC Architecture 
 
-## Deployed to Heroku:https://mvc-tech-blogs.herokuapp.com/
+## Deployed to Heroku:
+https://mvc-tech-blogs.herokuapp.com/
 
 ## Description
 A project to practice separation of concerns (Model View Controller - MVC) as well as learn how to use the Handlebars.js templating engine.
