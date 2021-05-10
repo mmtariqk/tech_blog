@@ -1,5 +1,7 @@
 # MVC Tech Blog using MVC Architecture 
 
+## Deployed to Heroku:https://mvc-tech-blogs.herokuapp.com/
+
 ## Description
 A project to practice separation of concerns (Model View Controller - MVC) as well as learn how to use the Handlebars.js templating engine.
 This is an app for creating Blog posts. The application allows users to create an account and post their blogs. Users can also edit/delete their own posts and leave comment on other's post after logged in. Anyone view the Home Page which contains blog posts posted by other users. Anybody can view individual posts and its comments as well. To perform other actions, login is required. Data is stored in JAWSDB on heroku, and application is deployed on heroku.
