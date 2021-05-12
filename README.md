@@ -3,7 +3,8 @@
 ## Deployed to Heroku:
 https://mvc-tech-blogs.herokuapp.com/
 
-## Demo: https://drive.google.com/file/d/1gRccgcOm4S1-JGOU1Bk69s_QxrAunP_z/view
+## Demo: 
+https://drive.google.com/file/d/1gRccgcOm4S1-JGOU1Bk69s_QxrAunP_z/view
 
 ## Description
 A project to practice separation of concerns (Model View Controller - MVC) as well as learn how to use the Handlebars.js templating engine.
