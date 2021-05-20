@@ -1,4 +1,4 @@
-# MVC Tech Blog 
+# MVC Tech Blog Assignment
 
 ## Deployed to Heroku:
 https://mvc-tech-blogs.herokuapp.com/
