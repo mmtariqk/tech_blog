@@ -1,6 +1,9 @@
 # MVC Tech Blog 
 
-## Deployed to Heroku:
+## Deployed to Heroku - New Updated Heroku Link:
+https://tech-blogs-mvc.herokuapp.com/
+
+## Deployed to Heroku - Old Link:
 https://mvc-tech-blogs.herokuapp.com/
 
 ## Demo: 
