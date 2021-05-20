@@ -11,20 +11,33 @@
   }
   
   .hero-head{
-    margin-top: -10px;
+    margin-top: 8px;
     font-size: 22px;
     background: linear-gradient( 
 0.25turn
  , #3f87a6, #ebf8e1, #f69d3c);
-    padding: 20px;
+    padding: 70px 0px;
+    font-size: 14px;
+    font-weight: bold;
   }
 
   a {
     text-decoration: none;
-    font-weight: bold;
     color: black;
+    padding-left: 5px;
+    padding-right: 5px;
   }
   
+  .font{
+    font-size: 14px;
+    font-weight: unset;
+  }
+
+  .font-signup {
+    font-size: 14px;
+    font-weight: unset;
+  }
+
   a:hover {
     color: #3486eb;
   }
@@ -38,6 +51,11 @@
     border-radius: 5px;
   }
   
+  .card-bg {
+    background-color:#d9edf7;
+  }
+
+
   .post-list {
     margin: 0;
     padding: 0;
@@ -90,13 +108,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 1%;
+    padding: 60px 1%;
     text-align: center;
   }
   
   main {
     flex: 1;
-    padding: 2% 4%;
+    padding: 1% 0%;
     text-align: center;
   }
   
@@ -169,7 +187,7 @@
     border-top: 1px solid #ccc;
     display: flex;
     justify-content: center;
-    padding: 1%;
+    padding: 5%;
     font-size: 110%;
   }
 
@@ -185,6 +203,7 @@
 
   .center{
     text-align: center;
+    margin: 30px 0px;
   }
 
   .navbar {
@@ -193,7 +212,7 @@
     margin-bottom: 20px;
     border: 1px solid transparent;
     float: right;
-    margin-top: -66px;
+    margin-top: -89px;
 }
 
 #email-login{
@@ -213,6 +232,9 @@
   @media screen and (max-width: 500px){
   .card-content {
     background-color: transparent;
+    margin: 20px 0px;
+    padding-left: 10px;
+    padding-right: 10px;
     
 }
   }
@@ -220,7 +242,8 @@
   @media screen and (max-width: 1249px) and (min-width: 501px){
     .card-content .content {
       background-color: transparent;
-      padding: 20px;
+      padding: 40px 40px;
+      margin-bottom: 10px;
   }
     
   }  
