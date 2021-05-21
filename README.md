@@ -36,6 +36,8 @@ to run the seed...
 
 <img width="965" alt="Screen Shot 2021-05-20 at 5 38 20 PM" src="https://user-images.githubusercontent.com/77028806/119065394-46da2f80-b992-11eb-8021-3b9760d591af.png">
 
+### Old Screenshots:
+
 <img width="1109" alt="large_devices" src="https://user-images.githubusercontent.com/77028806/117701733-7318d380-b17c-11eb-8f90-8323e960d528.png">
 
 <img width="621" alt="Mobile_Devices" src="https://user-images.githubusercontent.com/77028806/117701701-68f6d500-b17c-11eb-9673-d8098b78ec3e.png">
