@@ -32,6 +32,8 @@ to run the seed...
 
 <img width="484" alt="S-1-Heroku" src="https://user-images.githubusercontent.com/77028806/119064985-6d4b9b00-b991-11eb-8fcf-5fc094a5843f.png">
 
+![Screen Shot 2021-05-20 at 4 10 56 PM](https://user-images.githubusercontent.com/77028806/119065195-d9c69a00-b991-11eb-88f9-0c72300f986c.png)
+
 <img width="1109" alt="large_devices" src="https://user-images.githubusercontent.com/77028806/117701733-7318d380-b17c-11eb-8f90-8323e960d528.png">
 
 <img width="621" alt="Mobile_Devices" src="https://user-images.githubusercontent.com/77028806/117701701-68f6d500-b17c-11eb-9673-d8098b78ec3e.png">
