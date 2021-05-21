@@ -26,7 +26,7 @@ to check if the server is running without any error. <br> If it runs, then enter
 ```npm run seed``` 
 to run the seed...
 
-### Screenshots-:
+### Screenshots:
 
 <img width="1109" alt="large_devices" src="https://user-images.githubusercontent.com/77028806/117701733-7318d380-b17c-11eb-8f90-8323e960d528.png">
 
